@@ -1,1 +1,1 @@
-# php-registration
+# PHP-user-registration
